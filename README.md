@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @pokemogukunns
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 
+- 👀 
+- 🌱 
+- 💞️ 
+- 📫 
+- 😄 
+- ⚡ 
 
-<---
+
+<!---
 pokemogukunns/pokemogukunns `README.md`（このファイル）がGitHubプロファイルに表示されるため、✨特別な✨リポジトリです。
 プレビューリンクをクリックして、変更を確認できます。
 --->
