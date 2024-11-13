@@ -1,4 +1,4 @@
-- 👋 
+- 👋 <a href="/pokemogukunn">pokemogukunn</a>, <a href="/pokemogukunns">pokemogukunns</a>, <a href="/pokemogukunndesu">pokemogukunndesu</a>
 - 👀 
 - 🌱 
 - 💞️ 
