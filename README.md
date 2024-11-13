@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-pokemogukunns/pokemogukunns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+pokemogukunns/pokemogukunns `README.md`（このファイル）がGitHubプロファイルに表示されるため、✨特別な✨リポジトリです。
+プレビューリンクをクリックして、変更を確認できます。
 --->
